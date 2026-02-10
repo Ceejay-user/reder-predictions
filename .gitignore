@@ -1,2 +1,5 @@
 .env
 venv
+model/model.pkl
+dataset/processed/processed_data.csv
+__pycache__
